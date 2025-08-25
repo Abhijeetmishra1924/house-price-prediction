@@ -10,7 +10,7 @@ import os
 # App Title
 # -----------------------------
 st.title("House Price Prediction")
-st.write("Predict the sale price of a house based on its features. Model trained on Ames, Iowa housing data.")
+st.write("Click on arrow to Predict the sale price of a house based on its features. Model trained on Ames, Iowa housing data.")
 
 # -----------------------------
 # Load Training Data
